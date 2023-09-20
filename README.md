@@ -1,1 +1,1 @@
-# Nickname-Generator-EJS
+# Nickname Generator Website by EJS
